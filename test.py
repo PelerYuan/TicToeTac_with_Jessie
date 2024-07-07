@@ -40,7 +40,7 @@ def choose_who_go_first():
     """
     return random.choice([True, False])
 
-
+#
 def get_player_move(board):
     """
     get player move
